@@ -17,5 +17,6 @@ This is a fun and exciting 2D Space Shooter Game developed using the Raylib libr
 - Platform: Cross-platform (Windows, Linux, MacOS)
 
 Used Webassembly, So That Players Can Play Online On Web.
+
 Feel free to check out the code and contribute!
 
