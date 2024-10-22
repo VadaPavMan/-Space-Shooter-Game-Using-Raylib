@@ -1,5 +1,5 @@
 # 🚀 Space Shooter Game Using Raylib
-This is a fun and exciting 2D Space Shooter Game developed using the Raylib library in C++. Players control a spaceship, navigating through space while dodging obstacles and shooting enemies to score points.
+This is a fun and exciting 2D Space Shooter Game developed using the Raylib library in C. Players control a spaceship, navigating through space while dodging obstacles and shooting enemies to score points.
 
 
 ![imgC](assests/image.png)
